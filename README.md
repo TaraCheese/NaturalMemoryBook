@@ -1,5 +1,5 @@
 
-![mindmap](https://github.com/TaraCheese/NaturalMemoryBook/blob/master/Documents/%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84%E3%83%A1%E3%83%A2%E5%B8%B3.png)
+![mindmapgit c](https://github.com/TaraCheese/NaturalMemoryBook/blob/master/Documents/%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84%E3%83%A1%E3%83%A2%E5%B8%B3.png)
 
 ## 理想
 「忘れる」確率を極端に下げます
